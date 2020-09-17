@@ -13,17 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Im Aerials! 
+email: arielro85@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Este sitio te traera un poco de luz en algunos temas relacionados a la tecnologia, tales como IoT , Arquitectura definida por codigo(SDX) y cloud.
+# twitter_username: username
+github_username: imaerials
 minimal_mistakes_skin: default
 search: true
-
+locale: "es-AR"
+url: "https://imaerials.github.io"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -58,34 +57,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Ariel Romero"
+  avatar : "/assets/images/me.jpg"
+  bio    : "Codigo, plastico, fotografia y mas codigo... ah, tambien deportes "
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/imaerials"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/arielro85"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/imaerials"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/arielro85"
 
 defaults:
   # _posts
@@ -97,6 +87,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
+      show_date: true
       share: true
       related: true
   # _pages
