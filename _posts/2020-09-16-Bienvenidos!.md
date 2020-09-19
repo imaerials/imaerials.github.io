@@ -8,10 +8,11 @@ tags:
   - firs-post
 ---
 
-Hola! Hace un tiempo largo que andaba con ganas de tener mi propio sitio/blog. Un lugar donde pueda mostrar mis hobbies, parte de mi trabajo, y de mis desarrollos alrededor de uno de los temas que mas me apasiona: La Tecnologia.
+Hola! Hace un tiempo largo que andaba con ganas de tener mi propio sitio/blog. Un lugar donde pueda mostrar mis hobbies, parte de mi trabajo, y de mis desarrollos alrededor de uno de los temas que mas me apasiona: La Tecnología.
 
-Desarrollar un sitio desde 0 se me complicaba. Asi que , investigando , me tope con GitHub Pages y aca esta el resultado. 
+Desarrollar un sitio desde 0 se me complicaba. Así que , investigando , me tope con GitHub Pages y acá esta el resultado. 
 
-En este blog ire posteando informacion relacionada con el mundo de la tecnologia, sustentabilidad y automatizacion, 
+En este blog iré posteando información relacionada con el mundo de la tecnología, sustentabilidad y automatización, 
 
 Espero puedan disfrutar :)
+
