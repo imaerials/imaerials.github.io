@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Ariel Romero"
   avatar : "/assets/images/me.jpg"
-  bio    : "Codigo, plastico, fotografia y mas codigo... ah, tambien deportes "
+  bio    : "Código, plástico, fotografía y mas código… ah, también deportes"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
